@@ -4,10 +4,10 @@ SecurePass is a robust and secure password manager application that allows users
 
 ## Features
 
-**Secure Password Storage:** User passwords are stored securely in the database as encrypted strings, ensuring confidentiality.
-**Password Management:** Users can view, edit, and delete their stored passwords, providing full control over their credentials.
-**User-Friendly Interfaces:** Intuitive and aesthetically pleasing interfaces enhance the user experience, making password management effortless.
-**Search Functionality:** Convenient search feature allows users to quickly locate stored passwords using usernames.
+- **Secure Password Storage:** User passwords are stored securely in the database as encrypted strings, ensuring confidentiality.
+- **Password Management:** Users can view, edit, and delete their stored passwords, providing full control over their credentials.
+- **User-Friendly Interfaces:** Intuitive and aesthetically pleasing interfaces enhance the user experience, making password management effortless.
+- **Search Functionality:** Convenient search feature allows users to quickly locate stored passwords using usernames.
 
 ## Tech Stack
 
