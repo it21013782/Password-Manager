@@ -38,15 +38,13 @@ SecurePass is a robust and secure password manager application that allows users
 ## Usage
 
 Sign Up:
-
 Create an account with a unique username and a strong password.
+
 Login:
-
 Log in with your credentials to access the password manager.
+
 Add Passwords:
-
 Add, edit, or delete passwords through the user-friendly interface.
+
 Search Passwords:
-
 Quickly find stored passwords by searching with usernames.
-
