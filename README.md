@@ -4,31 +4,16 @@ SecurePass is a robust and secure password manager application that allows users
 
 ## Features
 
-1. **Secure Password Storage:**
-   - User passwords are stored securely in the database as encrypted strings, ensuring confidentiality.
-
-2. **Password Management:**
-   - Users can view, edit, and delete their stored passwords, providing full control over their credentials.
-
-3. **User-Friendly Interfaces:**
-   - Intuitive and aesthetically pleasing interfaces enhance the user experience, making password management effortless.
-
-4. **Search Functionality:**
-   - Convenient search feature allows users to quickly locate stored passwords using usernames.
+**Secure Password Storage:** User passwords are stored securely in the database as encrypted strings, ensuring confidentiality.
+**Password Management:** Users can view, edit, and delete their stored passwords, providing full control over their credentials.
+**User-Friendly Interfaces:** Intuitive and aesthetically pleasing interfaces enhance the user experience, making password management effortless.
+**Search Functionality:** Convenient search feature allows users to quickly locate stored passwords using usernames.
 
 ## Tech Stack
 
-- **Frontend:**
-  - React
-
-- **Backend:**
-  - Node.js
-  - Express
-
-- **Database:**
-  - MySQL
-
-## Getting Started
+- **Frontend:** React
+- **Backend:** Node.js, Express
+- **Database:** MySQL
 
 ### Prerequisites
 
@@ -37,14 +22,11 @@ SecurePass is a robust and secure password manager application that allows users
 
 ## Usage
 
-Sign Up:
-Create an account with a unique username and a strong password.
+- Sign Up: Create an account with a unique username and a strong password.
+- Login: Log in with your credentials to access the password manager.
+- Add Passwords: Add, edit, or delete passwords through the user-friendly interface.
+- Search Passwords: Quickly find stored passwords by searching with usernames.
 
-Login:
-Log in with your credentials to access the password manager.
+## Contact
 
-Add Passwords:
-Add, edit, or delete passwords through the user-friendly interface.
-
-Search Passwords:
-Quickly find stored passwords by searching with usernames.
+For any inquiries or support, please contact it21013782@my.sliit.lk.
